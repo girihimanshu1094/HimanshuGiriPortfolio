@@ -47,4 +47,4 @@ Career interests
 
 This portfolio can be used while applying for internships and entry-level software development roles.
 
-Author - Himanshu Giri | MCA Student
+Author - Himanshu Giri
