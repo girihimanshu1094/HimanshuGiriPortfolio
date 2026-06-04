@@ -19,6 +19,7 @@ Technologies Used
 3. JavaScript (Vanilla JS)
 
 Project Structure
+
 Portfolio/
 │
 ├── index.html
@@ -39,6 +40,7 @@ Sections Included
 5. Education - Academic qualifications and achievements.
 
 Purpose
+
 The purpose of this project is to create an online portfolio that highlights my:
 Technical skills
 Academic background
